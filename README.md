@@ -1,5 +1,5 @@
 # python 画图的几种方法总结
-画图初衷：
+TTTTTTTTTTTTTTTT画图初衷：
    最初的需求是将两张Icon按照要求整合为一个Icon，原本是一个拼接图片的工作，用到的为Python的PIL包，Python里面最重要的两个包还是Np和Pandas，但是PIL包还是挺有意思的，值得去多看下。画图方法--》新包--》学习更多的包！
    拼接图片有很多种思路，主要是要先选择好了思路，再去找对应的实现方法，[本文中拼接用到的方法为Image.paste](https://pillow.readthedocs.io/en/latest/_modules/PIL/Image.html#Image.paste)，拼接方法代码如下:
    
